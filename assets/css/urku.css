@@ -1,9 +1,9 @@
-/* * * * * * * * * * * * * * * * * * * * *\ 
- UrkuPortfolio v1.0.0 
- Urku is a prtfolio template with a very clean style. 
- (c) 2016 Lionel <lionel@pixeden.com> (http://pixeden.com) 
- https://bitbucket.org/elrumordelaluz/urkuportfolio 
- Licensed under  MIT 
+/* * * * * * * * * * * * * * * * * * * * *\
+ UrkuPortfolio v1.0.0
+ Urku is a prtfolio template with a very clean style.
+ (c) 2016 Lionel <lionel@pixeden.com> (http://pixeden.com)
+ https://bitbucket.org/elrumordelaluz/urkuportfolio
+ Licensed under  MIT
 \* * * * * * * * * * * * * * * * * * * * */
 @charset "UTF-8";
 
@@ -55,29 +55,30 @@ body {
     position: relative;
   }
 }
-.bg-hist {
-	height: 50px;
-	background-image: url("../img/bg-header.png");
-	background-repeat: no-repeat;
-	background-size: auto 100%;
-	background-position: 50% 0;
+
+.h3 {
+  text-align: center;
+  width: 100%;
 }
-.bg-clientes {
-	height: 50px;
-	background-image: url("../img/bg-header.png");
-	background-repeat: no-repeat;
-	background-size: auto 100%;
-	background-position: 50% 0;
+
+h3 {
+  margin: 50px auto 20px auto;
+  padding: 5px;
+  display:inline-block;
+  align-content: center;
+  text-align:center"
 }
-.bg-fone {
-	height: 60px!important;
-	background-image: url("../img/bg-header.png");
+
+.bg-hist, .bg-clientes, .bg-fone {
+	height: auto;
+	background-image: url("../img/pincelada.png");
 	background-repeat: no-repeat;
-	background-size:  100% auto;
-	background-position: 50% 0;
+	background-size: 100% 100%;
+	background-position: 0 0;
 }
+
 .rk-header {
-  
+
   background-color: #fff;
   background-image: url("../img/bg-header.png");
   background-repeat: no-repeat;
@@ -89,7 +90,7 @@ body {
   z-index: 5;
   height: 117px;
   padding-top: 0;
-  
+
 }
 .top-fixed .rk-header {
   position: fixed;
@@ -2203,8 +2204,8 @@ body {
 
 .rk-light-color {
   color: #787878;
-  
-  
+
+
 }
 
 
@@ -2255,21 +2256,21 @@ body {
     padding:6px 4px 6px 4px;
     background-color:#FFF;
     box-shadow: 0px 1px 26px -3px #777777;
-	
+
     }
-	
 
 
 
 
-	
+
+
 	.lightbox .content img {
-    position: absolute; 
-  top: 0; 
-  left: 0; 
-  right: 0; 
-  bottom: 0; 
-  margin: auto; 
+    position: absolute;
+  top: 0;
+  left: 0;
+  right: 0;
+  bottom: 0;
+  margin: auto;
   min-width: 50%;
   min-height: 50%;
   overflow-x: hidden;
@@ -2286,7 +2287,7 @@ body {
 	bottom: 0;
 	z-index: 3;
 	width: 300px;
-	
+
 }
 
 .numero {
@@ -2299,7 +2300,7 @@ body {
 	display:inline-block;
 		margin:0;
 		width:100%;
-		
+
 }
 
 .proxproj {
@@ -2307,8 +2308,8 @@ body {
 		margin:0;
 		text-align: right;
 		width:50%;
-		
-		
+
+
 }
 
 .projant {
@@ -2316,7 +2317,7 @@ body {
 		margin:0;
 		text-align: left;
 		width:50%;
-		
+
 }
 
 .quadro .close {
@@ -2326,7 +2327,7 @@ body {
     font-family: sans-serif;
     font-size:18px;
     color: #777;
-	
+
     }
 .content a {
 	position: fixed;
@@ -2336,22 +2337,22 @@ body {
     font-family: sans-serif;
     font-size:22px;
     color: black;
-	
-	
+
+
 }
 .quadro .title {
     margin:0;
     padding:0;
     border-bottom:1px #ccc solid;
     font-size:12px;
-	
-    }	
-	
+
+    }
+
 .clear {
     display:block;
     clear:both;
     }
-	
+
 .imgcliente {
 	height: 50px;
 	margin: 5px;
@@ -2360,8 +2361,7 @@ body {
 @media (max-width: 600px) {
 	.quadro {
 		width: 70%;
-		right: 15%; 
-		
+		right: 15%;
+
 	}
 }
-
