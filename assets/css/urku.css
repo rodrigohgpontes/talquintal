@@ -1200,6 +1200,10 @@ h3 {
   padding-top: 100%;
 }
 
+.item-0 {
+  background-image: url("../img/project-0.jpg");
+}
+
 .item-1 {
   background-image: url("../img/project-1.jpg");
 }
@@ -1281,6 +1285,26 @@ h3 {
 
 .item-15 {
   background-image: url("../img/project-15.jpg");
+}
+
+.item-16 {
+  background-image: url("../img/project-16.jpg");
+}
+
+.item-17 {
+  background-image: url("../img/project-17.jpg");
+}
+
+.item-18 {
+  background-image: url("../img/project-18.jpg");
+}
+
+.item-19 {
+  background-image: url("../img/project-19.jpg");
+}
+
+.item-20 {
+  background-image: url("../img/project-20.jpg");
 }
 
 @media (min-width: 40em) {
@@ -2307,7 +2331,7 @@ h3 {
 	display:inline-block;
 		margin:0;
 		text-align: right;
-		width:50%;
+		width:49%;
 
 
 }
@@ -2316,7 +2340,7 @@ h3 {
 	display:inline-block;
 		margin:0;
 		text-align: left;
-		width:50%;
+		width:49%;
 
 }
 
