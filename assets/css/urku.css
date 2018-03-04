@@ -69,12 +69,20 @@ h3 {
   text-align:center"
 }
 
-.bg-hist, .bg-clientes, .bg-fone {
+.bg-hist, .bg-clientes, .bg-fone, .bg-socias {
 	height: auto;
 	background-image: url("../img/pincelada.png");
 	background-repeat: no-repeat;
 	background-size: 100% 100%;
 	background-position: 0 0;
+}
+
+.socia {
+  margin-bottom: 60px;
+}
+
+.socia img, .socia p {
+  margin: 0;
 }
 
 .rk-header {
