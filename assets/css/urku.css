@@ -73,8 +73,14 @@ h3 {
 	height: auto;
 	background-image: url("../img/pincelada.png");
 	background-repeat: no-repeat;
-	background-size: 100% 100%;
+	background-size: 110% 100%;
 	background-position: 0 0;
+  padding-right: 40px;
+}
+
+.bg-fone {
+  background-size: 110% 120%;
+  padding: 10px 20px 0 5px;
 }
 
 .socia {
