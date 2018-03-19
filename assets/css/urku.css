@@ -1321,6 +1321,66 @@ h3 {
   background-image: url("../img/project-20.jpg");
 }
 
+.item-21 {
+  background-image: url("../img/project-21.jpg");
+}
+
+.item-22 {
+  background-image: url("../img/project-22.jpg");
+}
+
+.item-23 {
+  background-image: url("../img/project-23.jpg");
+}
+
+.item-24 {
+  background-image: url("../img/project-24.jpg");
+}
+
+.item-25 {
+  background-image: url("../img/project-25.jpg");
+}
+
+.item-26 {
+  background-image: url("../img/project-26.jpg");
+}
+
+.item-27 {
+  background-image: url("../img/project-27.jpg");
+}
+
+.item-28 {
+  background-image: url("../img/project-28.jpg");
+}
+
+.item-29 {
+  background-image: url("../img/project-29.jpg");
+}
+
+.item-30 {
+  background-image: url("../img/project-30.jpg");
+}
+
+.item-31 {
+  background-image: url("../img/project-31.jpg");
+}
+
+.item-32 {
+  background-image: url("../img/project-32.jpg");
+}
+
+.item-33 {
+  background-image: url("../img/project-33.jpg");
+}
+
+.item-34 {
+  background-image: url("../img/project-34.jpg");
+}
+
+.item-35 {
+  background-image: url("../img/project-35.jpg");
+}
+
 @media (min-width: 40em) {
   #layout-grid:checked ~ .rk-portfolio .rk-items-cont {
     display: -webkit-box;
