@@ -2365,6 +2365,7 @@ h3 {
   margin: auto;
   min-width: 20%;
   min-height: 50%;
+  max-height: 90%;
   overflow-x: hidden;
 }
 
