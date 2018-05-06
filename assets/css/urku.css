@@ -95,12 +95,6 @@ h3 {
 .rk-header {
 
   background-color: #fff;
-  background-image: url("../img/bg-header.png");
-  background-repeat: no-repeat;
-    background-position: 50px 30px;
-    background-attachment: fixed;
-	background-size: auto 100px;
-  /*background-color: #fff;*/
   position: relative;
   z-index: 5;
   height: 117px;
@@ -147,12 +141,18 @@ h3 {
   text-align: center;
   text-transform: uppercase;
   width: 20%;
+  text-align: left;
 }
 .rk-logo sup {
   font-size: .5625rem;
   position: relative;
   top: -1px;
 }
+
+/*.rk-logo img {
+  width: 500px;
+  height: 200px!important;
+}*/
 @media (min-width: 64em) {
   .rk-logo {
     -webkit-box-flex: 1;
